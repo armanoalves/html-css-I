@@ -45,4 +45,4 @@ Ou acessar este link: [Página do projeto](https://armanoalves.github.io/html-cs
 
 ## Licença
 
-Este projeto está sob a licença do MIT- veja o arquivo [LICENSE]() para detalhes.
+Este projeto está sob a licença do MIT- veja o arquivo [LICENSE](https://github.com/armanoalves/html-css-I/blob/main/LICENSE) para detalhes.
